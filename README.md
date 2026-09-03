@@ -107,13 +107,11 @@ Durante a disciplina foram desenvolvidos diferentes projetos para colocar em pr�
 | # | Aula | Projeto | Repositório | Tecnologia |
 |---|---|---|---|---|
 | 01 | Aula 01 | projeto-vanilla | [🔗 Repositório](https://github.com/guibuenoc/projeto-vanilla) | HTML / CSS / JavaScript |
-| 02 | Aula 02 | projeto-copia-react | [🔗 Repositório](https://github.com/guibuenoc/projeto-copia-react) | React |
-| 03 | Aula 03 | projeto-react-node | [🔗 Repositório](https://github.com/guibuenoc/projeto-react-node) | React / Node.js |
-| 04 | Aula 03 | projeto-vue | [🔗 Repositório](https://github.com/guibuenoc/projeto-vue) | Vue.js |
-| 05 | Aula 03 | projeto-angular | [🔗 Repositório](https://github.com/guibuenoc/projeto-angular) | Angular |
-| 06 | Aula 03 | meu-projeto-next-js | [🔗 Repositório](https://github.com/guibuenoc/meu-projeto-next-js) | Next.js |
-| 07 | Aula 04 | frontend-api-projects-analysis | [🔗 Repositório](https://github.com/guibuenoc/frontend-api-projects-analysis) | Front-end / APIs |
-| 08 | Aula 05 | datetime-api-express | [🔗 Repositório](https://github.com/guibuenoc/datetime-api-express) | Node.js / Express |
+| 02 | Aula 02 | projeto-react-node | [🔗 Repositório](https://github.com/guibuenoc/projeto-react-node) | React / Node.js |
+| 03 | Aula 03 | projeto-vue | [🔗 Repositório](https://github.com/guibuenoc/projeto-vue) | Vue.js |
+| 04 | Aula 03 | projeto-angular | [🔗 Repositório](https://github.com/guibuenoc/projeto-angular) | Angular |
+| 05 | Aula 03 | projeto-next | [🔗 Repositório](https://github.com/guibuenoc/next-project) | Next.js |
+| 06 | Aula 04 | frontend-api-projects-analysis | [🔗 Repositório](https://github.com/guibuenoc/API-project) | Front-end / APIs |
 
 ---
 
