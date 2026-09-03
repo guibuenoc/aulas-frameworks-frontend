@@ -112,7 +112,7 @@ Durante a disciplina foram desenvolvidos diferentes projetos para colocar em pr�
 | 04 | Aula 03 | projeto-angular | [🔗 Repositório](https://github.com/guibuenoc/projeto-angular) | Angular |
 | 05 | Aula 03 | projeto-next | [🔗 Repositório](https://github.com/guibuenoc/next-project) | Next.js |
 | 06 | Aula 04 | projeto-api | [🔗 Repositório](https://github.com/guibuenoc/API-project) | Front-end / APIs |
-| 07 | Aula 04 | análise de projetos api | [🔗 Repositório](https://github.com/guibuenoc/an-lise-de-projetos-api) | APIs REST |
+| 07 | Aula 04 | análise de projetos api | [🔗 Repositório](https://github.com/guibuenoc/analise-de-projetos-api) | APIs REST |
 
 ---
 
