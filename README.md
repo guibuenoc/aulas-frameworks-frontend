@@ -111,7 +111,7 @@ Durante a disciplina foram desenvolvidos diferentes projetos para colocar em pr�
 | 03 | Aula 03 | projeto-vue | [🔗 Repositório](https://github.com/guibuenoc/projeto-vue) | Vue.js |
 | 04 | Aula 03 | projeto-angular | [🔗 Repositório](https://github.com/guibuenoc/projeto-angular) | Angular |
 | 05 | Aula 03 | projeto-next | [🔗 Repositório](https://github.com/guibuenoc/next-project) | Next.js |
-| 06 | Aula 04 | frontend-api-projects-analysis | [🔗 Repositório](https://github.com/guibuenoc/API-project) | Front-end / APIs |
+| 06 | Aula 04 | projeto-api | [🔗 Repositório](https://github.com/guibuenoc/API-project) | Front-end / APIs |
 
 ---
 
