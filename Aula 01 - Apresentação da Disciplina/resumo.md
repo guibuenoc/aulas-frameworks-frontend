@@ -17,3 +17,9 @@ Nesta aula foi apresentada a disciplina de Frameworks Front-end, seus objetivos,
 ## Objetivo da aula
 
 Entender como será o funcionamento da disciplina e quais tecnologias serão estudadas durante o semestre.
+
+---
+
+## 📄 Slides da Aula
+
+[📑 Visualizar slides da Aula 01](./slides-aula-01.pdf)
