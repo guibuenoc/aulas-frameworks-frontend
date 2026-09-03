@@ -33,3 +33,9 @@ Durante as atividades foram utilizadas diferentes tecnologias, como:
 ## Objetivo da aula
 
 Conhecer diferentes frameworks Front-end e entender como cada tecnologia organiza e desenvolve aplicações web modernas.
+
+---
+
+## 📄 Slides da Aula
+
+[📑 Visualizar slides da Aula 03](./slides-aula-03.pdf)

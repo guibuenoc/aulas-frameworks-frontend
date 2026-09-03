@@ -30,3 +30,9 @@ A aplicação realiza uma requisição para uma API, recebe os dados e utiliza e
 ## Objetivo da aula
 
 Entender como consumir APIs no Front-end e utilizar dados externos dentro de uma aplicação web.
+
+---
+
+## 📄 Slides da Aula
+
+[📑 Visualizar slides da Aula 04](./slides-aula-04.pdf)

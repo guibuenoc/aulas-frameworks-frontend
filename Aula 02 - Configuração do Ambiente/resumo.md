@@ -18,3 +18,9 @@ Nesta aula foi feita a preparação do ambiente de desenvolvimento que será uti
 ## Objetivo da aula
 
 Preparar o ambiente de desenvolvimento e entender as principais ferramentas utilizadas durante a criação dos projetos Front-end.
+
+---
+
+## 📄 Slides da Aula
+
+[📑 Visualizar slides da Aula 02](./slides-aula-02.pdf)

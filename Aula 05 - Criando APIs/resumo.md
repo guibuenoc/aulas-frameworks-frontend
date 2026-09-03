@@ -23,3 +23,9 @@ Uma API pode possuir um endpoint como:
 
 ```text
 /api/datetime
+
+---
+
+## 📄 Slides da Aula
+
+[📑 Visualizar slides da Aula 05](./slides-aula-05.pdf)
