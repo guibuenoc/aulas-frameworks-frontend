@@ -29,7 +29,19 @@ aulas-frameworks-frontend/
 ├── Aula 04 - Consumindo APIs/
 │   └── resumo.md
 │
-└── Aula 05 - Criando APIs/
+├── Aula 05 - Criando APIs/
+│   └── resumo.md
+│
+├── Aula 06 - Projetos Front-End/
+│   └── resumo.md
+│
+├── Aula 07 - Frameworks CSS/
+│   └── resumo.md
+│
+├── Aula 08 - Projeto React/
+│   └── resumo.md
+│
+└── Aula 09 - Projeto React 02/
     └── resumo.md
 ```
 
@@ -97,6 +109,64 @@ Principais conceitos:
 - Requisições HTTP
 - Respostas JSON
 - Integração entre Front-end e Back-end
+
+### 📐 Aula 06 — Projetos Front-End
+
+Introdução à gestão de projetos Front-end, abordando como transformar uma ideia em requisitos, tarefas e entregas, com aplicação dos conceitos ao Projeto Integrador Interdisciplinar.
+
+Principais conceitos:
+
+- Gestão de projetos Front-end
+- Gestão de requisitos
+- Requisitos, histórias de usuário e tarefas
+- Gestão do backlog
+- Priorização e estimativa
+- Definition of Done (DoD)
+- Scrum e Sprints
+
+### 🎨 Aula 07 — Frameworks CSS
+
+Estudo do CSS para controle de layout e aparência das páginas, seguido da apresentação de frameworks CSS, com foco no Tailwind CSS e na abordagem utility-first.
+
+Principais conceitos:
+
+- Estrutura do CSS (seletor, propriedade e valor)
+- Box model
+- Flexbox
+- Layouts responsivos
+- O que é um framework CSS
+- Tailwind CSS e abordagem utility-first
+- Instalação do Tailwind (Play CDN e Tailwind CLI)
+
+### ⚛️ Aula 08 — Projeto React
+
+Revisão de JavaScript e introdução ao React para construção de interfaces por meio de componentes.
+
+Principais conceitos:
+
+- Revisão de JavaScript
+- Manipulação do DOM
+- DOM e Virtual DOM
+- JSX
+- Componentes
+- Props
+- Listas e keys
+- Renderização condicional
+
+### 🔁 Aula 09 — Projeto React 02
+
+Aprofundamento no React, com estado, formulários, efeitos, consumo de APIs e navegação entre páginas.
+
+Principais conceitos:
+
+- State e `useState`
+- Formulários e campos controlados
+- Eventos `onChange` e `onSubmit`
+- `useEffect` e dependências
+- Consumo de APIs com `fetch`
+- Requisições `GET` e `POST`
+- React Router (`BrowserRouter`, `Routes`, `Route` e `Link`)
+- Parâmetros de rota com `useParams()`
 
 ---
 
