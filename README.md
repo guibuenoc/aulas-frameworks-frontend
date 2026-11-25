@@ -183,6 +183,10 @@ Durante a disciplina foram desenvolvidos diferentes projetos para colocar em pr�
 | 05 | Aula 03 | projeto-next | [🔗 Repositório](https://github.com/guibuenoc/next-project) | Next.js |
 | 06 | Aula 04 | projeto-api | [🔗 Repositório](https://github.com/guibuenoc/API-project) | Front-end / APIs |
 | 07 | Aula 04 | análise de projetos api | [🔗 Repositório](https://github.com/guibuenoc/analise-de-projetos-api) | APIs REST |
+| 08 | Aula 05 | criação api express | [🔗 Repositório](https://github.com/guibuenoc/frontend-api-express) | API EXPRESS |
+| 09 | Aula 07 | projeto html-css | [🔗 Repositório](https://github.com/guibuenoc/project-css-html) | HTML / CSS |
+| 10 | Aula 07 | projeto tailwind | [🔗 Repositório](https://github.com/guibuenoc/tailwind-project) | TAILWIND |
+| 11 | Aula 08/09 | projeto react | [🔗 Repositório](https://github.com/guibuenoc/dental-project) | REACT |
 
 ---
 
